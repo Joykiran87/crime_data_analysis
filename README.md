@@ -24,94 +24,73 @@ The dataset contains crime records with information related to:
 
 The dataset was cleaned and transformed before analysis to improve data quality and prepare it for visualization and SQL analysis.
 
-Tools & Technologies <br>
-Python — Data loading, cleaning, EDA and feature engineering <br>
-Pandas & NumPy — Data manipulation and transformation <br>
-Matplotlib & Seaborn — Exploratory data visualization <br>
-PostgreSQL — SQL-based data analysis <br>
-Power BI — Interactive dashboard and data visualization <br>
-Gamma — Project presentation <br>
-Jupyter Notebook — Python-based analysis and documentation <br>
+Tools & Technologies :- <br>
+- Python — Data loading, cleaning, EDA and feature engineering <br>
+- Pandas & NumPy — Data manipulation and transformation <br>
+- Matplotlib & Seaborn — Exploratory data visualization <br>
+- PostgreSQL — SQL-based data analysis <br>
+- Power BI — Interactive dashboard and data visualization <br>
+- Gamma — Project presentation <br>
+- Jupyter Notebook — Python-based analysis and documentation <br><br>
 Project Steps
 1. Data Loading
 Loaded the Crime Data from 2020 to Present dataset into Python.
 Examined the dataset structure, columns, data types and dimensions.
-2. Exploratory Data Analysis
+2. Exploratory Data Analysis - Performed EDA to understand:<br>
+- Dataset structure and distributions
+- Missing values
+- Duplicate records
+- Crime types
+- Crime locations
+- Victim demographics
+- Temporal patterns
+- Crime status distribution <br>
+3. Data Cleaning - Performed data preprocessing including: <br>
+- Handling missing values
+- Correcting data types
+- Identifying and handling invalid values
+- Cleaning date and time fields
+- Removing/handling inconsistent records
+- Preparing reliable fields for analysis <br>
+4. Feature Engineering - Created analytical features such as: <br>
+- Clean Date
+- Month
+- Month Name
+- Month Year
+- Month Year Sort
+- Day of Week
+- Day Number
+- Crime Hour
+- Victim Age Groups <br>
+These features were used to improve analysis and Power BI visualizations. <br>
 
-Performed EDA to understand:
+5. PostgreSQL Analysis - Loaded the cleaned dataset into PostgreSQL and performed SQL analysis to answer business and analytical questions related to: <br>
+- Crime frequency
+- Crime types
+- Geographic distribution
+- Crime locations
+- Victim demographics
+- Temporal patterns
+- Crime status <br>
 
-Dataset structure and distributions
-Missing values
-Duplicate records
-Crime types
-Crime locations
-Victim demographics
-Temporal patterns
-Crime status distribution
-3. Data Cleaning
+6. Power BI Dashboard - Built an interactive Power BI dashboard consisting of multiple analytical pages covering: <br>
+- Executive Overview
+- Crime Patterns & Geographic Analysis
+- Victim Demographic Analysis
+- Time Analysis
+- Crime Record Details using drill-through functionality <br>
+The dashboard includes interactive slicers, KPI cards, charts, matrices and drill-through functionality. <br>
 
-Performed data preprocessing including:
+7. Reporting & Presentation - Prepared a detailed analytical report documenting the findings. <br>
+Created a professional presentation using Gamma to communicate the key insights and conclusions. <br> <br>
 
-Handling missing values
-Correcting data types
-Identifying and handling invalid values
-Cleaning date and time fields
-Removing/handling inconsistent records
-Preparing reliable fields for analysis
-4. Feature Engineering
-
-Created analytical features such as:
-
-Clean Date
-Month
-Month Name
-Month Year
-Month Year Sort
-Day of Week
-Day Number
-Crime Hour
-Victim Age Groups
-
-These features were used to improve analysis and Power BI visualizations.
-
-5. PostgreSQL Analysis
-
-Loaded the cleaned dataset into PostgreSQL and performed SQL analysis to answer business and analytical questions related to:
-
-Crime frequency
-Crime types
-Geographic distribution
-Crime locations
-Victim demographics
-Temporal patterns
-Crime status
-6. Power BI Dashboard
-
-Built an interactive Power BI dashboard consisting of multiple analytical pages covering:
-
-Executive Overview
-Crime Patterns & Geographic Analysis
-Victim Demographic Analysis
-Time Analysis
-Crime Record Details using drill-through functionality
-
-The dashboard includes interactive slicers, KPI cards, charts, matrices and drill-through functionality.
-
-7. Reporting & Presentation
-Prepared a detailed analytical report documenting the findings.
-Created a professional presentation using Gamma to communicate the key insights and conclusions.
-Power BI Dashboard
-
-The Power BI dashboard provides an interactive view of crime patterns across time, geography, crime types, locations and victim demographics.
+Power BI Dashboard - The Power BI dashboard provides an interactive view of crime patterns across time, geography, crime types, locations and victim demographics. <br><br>
 
 Dashboard Preview
 
-Add your Power BI dashboard screenshot below:
-
 ![Power BI Crime Analysis Dashboard](images/crime-dashboard.png)
 
-For GitHub, place your screenshot inside your repository, for example:
-
+<br><br>
 Crime-Data-Analytics/
 │
 ├── README.md
