@@ -1,8 +1,9 @@
 # Crime Data Analysis
 This is an end-to-end analysis of the crime data from 2020 to present. 
 
+<br><br>
 
-Overview
+<h3><b>Overview</b></h3>
 
 This project analyzes the Crime Data from 2020 to Present dataset to identify crime patterns, temporal trends, geographic distributions, victim demographics, and other key insights.
 
