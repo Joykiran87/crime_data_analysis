@@ -101,7 +101,7 @@ Crime-Data-Analytics/ <br>
 ├── data/ <br>
 └── reports/ <br><br>
 
-<b> Key Analysis & Results< /b>
+<b> Key Analysis & Results </b>
 
 The project provides insights into:
 
