@@ -13,25 +13,25 @@ Dataset: Crime Data from 2020 to Present
 
 The dataset contains crime records with information related to:
 
-Crime type and crime code <br>
-Date reported and date occurred <br>
-Time of occurrence <br>
-Area and reporting district <br>
-Premises/location <br>
-Victim age and gender <br>
-Crime status <br>
-Unique crime/DR number <br>
+- Crime type and crime code <br>
+- Date reported and date occurred <br>
+- Time of occurrence <br>
+- Area and reporting district <br>
+- Premises/location <br>
+- Victim age and gender <br>
+- Crime status <br>
+- Unique crime/DR number <br>
 
 The dataset was cleaned and transformed before analysis to improve data quality and prepare it for visualization and SQL analysis.
 
 Tools & Technologies <br>
-Python — Data loading, cleaning, EDA and feature engineering
-Pandas & NumPy — Data manipulation and transformation
-Matplotlib & Seaborn — Exploratory data visualization
-PostgreSQL — SQL-based data analysis
-Power BI — Interactive dashboard and data visualization
-Gamma — Project presentation
-Jupyter Notebook — Python-based analysis and documentation
+Python — Data loading, cleaning, EDA and feature engineering <br>
+Pandas & NumPy — Data manipulation and transformation <br>
+Matplotlib & Seaborn — Exploratory data visualization <br>
+PostgreSQL — SQL-based data analysis <br>
+Power BI — Interactive dashboard and data visualization <br>
+Gamma — Project presentation <br>
+Jupyter Notebook — Python-based analysis and documentation <br>
 Project Steps
 1. Data Loading
 Loaded the Crime Data from 2020 to Present dataset into Python.
