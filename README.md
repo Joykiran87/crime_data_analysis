@@ -120,7 +120,7 @@ The project provides insights into:
 
 The interactive dashboard allows users to apply filters and explore these patterns dynamically. <br><br>
 
-<h3><b>How to Run :- </b></h3> <br><br>
+<h3><b>How to Run :- </b></h3> 
 - Python Analysis
 - Clone the repository.
 - Install the required Python libraries:
