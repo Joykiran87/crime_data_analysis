@@ -120,52 +120,53 @@ The project provides insights into:
 
 The interactive dashboard allows users to apply filters and explore these patterns dynamically. <br><br>
 
-<h3><b>How to Run :- </b></h3> 
-- Python Analysis
-- Clone the repository.
-- Install the required Python libraries:
-- pip install pandas numpy matplotlib seaborn jupyter
-- Place the dataset in the appropriate project directory.
-- Open the Jupyter Notebook.
-- Run the Python analysis cells sequentially.
-- PostgreSQL
-- Install PostgreSQL.
-- Create a database.
-- Load the cleaned dataset into PostgreSQL.
-- Run the SQL queries provided in the sql folder.
-- Power BI
-- Open the .pbix file in Power BI Desktop.
-- Update the data source if required.
-- Refresh the dataset.
-- Use the slicers and interactive visuals to explore the analysis.
-- Project Structure 
+<h3><b> How to Run :- </b></h3> 
+- Python Analysis <br>
+- Clone the repository. <br>
+- Install the required Python libraries: <br>
+- pip install pandas numpy matplotlib seaborn jupyter <br>
+- Place the dataset in the appropriate project directory. <br>
+- Open the Jupyter Notebook. <br>
+- Run the Python analysis cells sequentially. <br>
+- PostgreSQL <br>
+- Install PostgreSQL. <br>
+- Create a database. <br>
+- Load the cleaned dataset into PostgreSQL. <br>
+- Run the SQL queries provided in the sql folder. <br>
+- Power BI <br>
+- Open the .pbix file in Power BI Desktop. <br>
+- Update the data source if required. <br>
+- Refresh the dataset. <br>
+- Use the slicers and interactive visuals to explore the analysis. <br>
+- Project Structure  <br> <br>
 
-Crime-Data-Analytics/
-│
-├── data/
-│   └── Crime Data from 2020 to Present
-│
-├── notebooks/
-│   └── crime_analysis.ipynb
-│
-├── sql/
-│   └── crime_analysis.sql
-│
-├── powerbi/
-│   └── crime_analysis_dashboard.pbix
-│
-├── reports/
-│   └── crime_analysis_report.pdf
-│
-├── presentation/
-│   └── crime_analysis_presentation.pdf
-│
-├── images/
-│   └── crime-dashboard.png
-│
-└── README.md
-Conclusion
+Crime-Data-Analytics/ <br>
+│ <br>
+├── data/ <br>
+│   └── Crime Data from 2020 to Present <br>
+│ <br>
+├── notebooks/ <br>
+│   └── crime_analysis.ipynb <br>
+│ <br>
+├── sql/ <br>
+│   └── crime_analysis.sql <br>
+│ <br>
+├── powerbi/ <br>
+│   └── crime_analysis_dashboard.pbix <br>
+│ <br>
+├── reports/ <br>
+│   └── crime_analysis_report.pdf <br>
+│ <br>
+├── presentation/ <br>
+│   └── crime_analysis_presentation.pdf <br>
+│ <br>
+├── images/ <br>
+│   └── crime-dashboard.png <br>
+│ <br>
+└── README.md <br> <br>
 
-This project demonstrates an end-to-end data analytics workflow, combining Python, SQL, PostgreSQL and Power BI to transform raw crime data into meaningful analytical insights and an interactive dashboard.
+<h3><b> Conclusion </b></h3> <br>
+
+This project demonstrates an end-to-end data analytics workflow, combining Python, SQL, PostgreSQL and Power BI to transform raw crime data into meaningful analytical insights and an interactive dashboard. <br>
 
 It showcases practical skills in data cleaning, exploratory data analysis, feature engineering, SQL analysis, data visualization, dashboard development, reporting and data storytelling.
