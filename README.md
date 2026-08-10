@@ -91,56 +91,55 @@ Dashboard Preview
 ![Power BI Crime Analysis Dashboard](images/crime-dashboard.png)
 
 <br><br>
-Crime-Data-Analytics/
-│
-├── README.md
-├── images/
-│   └── crime-dashboard.png
-├── notebooks/
-├── sql/
-├── data/
-└── reports/
+Crime-Data-Analytics/ <br>
+│ <br>
+├── README.md <br>
+├── images/ <br>
+│   └── crime-dashboard.png <br>
+├── notebooks/ <br>
+├── sql/ <rbr>
+├── data/ <br>
+└── reports/ <br><br>
 
-Then the image will appear directly in your README.
-
-Key Analysis & Results
+<b> Key Analysis & Results< /b>
 
 The project provides insights into:
 
-Most frequently reported crime types
-Crime distribution across different areas and reporting districts
-Crime patterns by premises/location
-Crime status distribution
-Crime types across different geographic areas
-Victim age-group distribution
-Victim gender distribution
-Victim demographics across crime types and areas
-Monthly and yearly crime trends
-Crime distribution by month and day of week
-Peak crime periods
-Geographic and temporal crime patterns
+- Most frequently reported crime types
+- Crime distribution across different areas and reporting districts
+- Crime patterns by premises/location
+- Crime status distribution
+- Crime types across different geographic areas
+- Victim age-group distribution
+- Victim gender distribution
+- Victim demographics across crime types and areas
+- Monthly and yearly crime trends
+- Crime distribution by month and day of week
+- Peak crime periods
+- Geographic and temporal crime patterns <br><br>
 
-The interactive dashboard allows users to apply filters and explore these patterns dynamically.
+The interactive dashboard allows users to apply filters and explore these patterns dynamically. <br><br>
 
-How to Run
-Python Analysis
-Clone the repository.
-Install the required Python libraries:
-pip install pandas numpy matplotlib seaborn jupyter
-Place the dataset in the appropriate project directory.
-Open the Jupyter Notebook.
-Run the Python analysis cells sequentially.
-PostgreSQL
-Install PostgreSQL.
-Create a database.
-Load the cleaned dataset into PostgreSQL.
-Run the SQL queries provided in the sql folder.
-Power BI
-Open the .pbix file in Power BI Desktop.
-Update the data source if required.
-Refresh the dataset.
-Use the slicers and interactive visuals to explore the analysis.
-Project Structure
+<h3><b>How to Run :- </b></h3> <br><br>
+- Python Analysis
+- Clone the repository.
+- Install the required Python libraries:
+- !pip install pandas numpy matplotlib seaborn jupyter
+- Place the dataset in the appropriate project directory.
+- Open the Jupyter Notebook.
+- Run the Python analysis cells sequentially.
+- PostgreSQL
+- Install PostgreSQL.
+- Create a database.
+- Load the cleaned dataset into PostgreSQL.
+- Run the SQL queries provided in the sql folder.
+- Power BI
+- Open the .pbix file in Power BI Desktop.
+- Update the data source if required.
+- Refresh the dataset.
+- Use the slicers and interactive visuals to explore the analysis.
+- Project Structure <br><br>
+
 Crime-Data-Analytics/
 │
 ├── data/
