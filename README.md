@@ -86,7 +86,8 @@ Created a professional presentation using Gamma to communicate the key insights 
 
 Power BI Dashboard - The Power BI dashboard provides an interactive view of crime patterns across time, geography, crime types, locations and victim demographics. <br><br>
 
-<h3><b> Dashboard Preview </b></h3> <br>
+<h3><b> Dashboard Preview </b></h3>  <br>
+
 - Page 1 :- <br> <br>
 ![image](https://github.com/Joykiran87/crime_data_analysis/blob/75da0a28bd9de3aaf0ba951741f540cd24f89ad0/Screenshot%202026-08-11%20001109.png)
 <br><br>
