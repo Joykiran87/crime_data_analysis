@@ -13,18 +13,18 @@ Dataset: Crime Data from 2020 to Present
 
 The dataset contains crime records with information related to:
 
-Crime type and crime code
-Date reported and date occurred
-Time of occurrence
-Area and reporting district
-Premises/location
-Victim age and gender
-Crime status
-Unique crime/DR number
+Crime type and crime code <br>
+Date reported and date occurred <br>
+Time of occurrence <br>
+Area and reporting district <br>
+Premises/location <br>
+Victim age and gender <br>
+Crime status <br>
+Unique crime/DR number <br>
 
 The dataset was cleaned and transformed before analysis to improve data quality and prepare it for visualization and SQL analysis.
 
-Tools & Technologies
+Tools & Technologies <br>
 Python — Data loading, cleaning, EDA and feature engineering
 Pandas & NumPy — Data manipulation and transformation
 Matplotlib & Seaborn — Exploratory data visualization
