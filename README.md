@@ -124,7 +124,7 @@ The interactive dashboard allows users to apply filters and explore these patter
 - Python Analysis
 - Clone the repository.
 - Install the required Python libraries:
-- !pip install pandas numpy matplotlib seaborn jupyter
+- pip install pandas numpy matplotlib seaborn jupyter
 - Place the dataset in the appropriate project directory.
 - Open the Jupyter Notebook.
 - Run the Python analysis cells sequentially.
@@ -138,7 +138,7 @@ The interactive dashboard allows users to apply filters and explore these patter
 - Update the data source if required.
 - Refresh the dataset.
 - Use the slicers and interactive visuals to explore the analysis.
-- Project Structure <br><br>
+- Project Structure 
 
 Crime-Data-Analytics/
 │
