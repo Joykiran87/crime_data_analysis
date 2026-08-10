@@ -9,8 +9,6 @@ This project analyzes the Crime Data from 2020 to Present dataset to identify cr
 
 The project follows an end-to-end data analytics workflow, from data loading and exploration in Python to SQL analysis in PostgreSQL, interactive dashboard development in Power BI, and presentation of findings through a professional report and Gamma presentation.
 
-Dataset
-
 Dataset: Crime Data from 2020 to Present
 
 The dataset contains crime records with information related to:
